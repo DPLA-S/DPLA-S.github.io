@@ -1,6 +1,6 @@
 /*Dash*/
 div.dash {
-background-color:#2d3142;
+background-color:#f0c800;
 margin:0em;
 color:white;
 padding:0px;
@@ -12,7 +12,7 @@ vertical-align: text-top;
 }
 
 div.dash a {
-	background-color:#2d3142;
+	background-color:#f0c800;
 	border-radius:0px;
 	border:0px solid #0e1633;
 	display:inline-block;
@@ -25,7 +25,9 @@ div.dash a {
 	text-decoration:none;
 }
 div.dash a:hover  {
-	background-color:#23283d;
+	background-color:
+#bf9f00
+;
 }
 div.dash a:active  {
 	position:relative;
@@ -37,7 +39,9 @@ div.dash a.white {
 	border:1px solid lightgray;
 	display:inline-block;
 	cursor:pointer;
-	color:#23283d;
+	color:
+#ccaa00
+;
 	font-family:Arial;
 	font-size:15px;
 	font-weight:bold;
@@ -63,5 +67,11 @@ padding:8px;
 float:right;
 }
 span.dash{
-border-left: 2px dashed #23283d;
+border-left: 2px dashed 
+#a18f38
+;
+}
+/*Other*/
+div.te{
+margin:1em;
 }
