@@ -128,6 +128,7 @@ color:#ccaa34;
   font-weight:bold;
   border-left: 1px solid #bf9f00;
   border-right: 1px solid #bf9f00;
+	width:128px;
 }
 .dropdown-content a.b {
   border-bottom-left-radius: 10px;
