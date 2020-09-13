@@ -79,3 +79,12 @@ margin:1em;
 h2 {
 color:#f0c83f;
 }
+
+a {
+color:#f5d660;
+font-weight: bold;
+}
+a:hover {
+color:#ccaa34;
+}
+
