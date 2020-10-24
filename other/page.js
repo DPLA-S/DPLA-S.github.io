@@ -1,3 +1,9 @@
+var projectID = window.location.hash;
+projectID = projectID.replace("#", "");
+if (projectID == "run"){
+  window.location.replace("https://dpla-s.github.io/Beta-Editor-CSS/");
+}
+
 var shut = false;
 
 var template = function(name, body) {
